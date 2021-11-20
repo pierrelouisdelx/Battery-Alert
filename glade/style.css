@@ -1,0 +1,9 @@
+#window
+{
+    border: 1px solid #4DFEFD;
+    border-radius: 25px;
+}
+
+#label {
+    font-size: 50px;
+}
